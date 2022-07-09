@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi. Welcome to my profile.
 
 - 🔭 I’m currently working on NextJS & Typescript.
 - 🌱 I’m currently learning Unit Testing.
